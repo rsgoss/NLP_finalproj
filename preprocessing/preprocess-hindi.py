@@ -1,17 +1,20 @@
 import pandas as pd
+import numpy as np
 import csv
 import re
+from conllu import parse
 from pathlib import Path
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem.snowball import SnowballStemmer
+from alive_progress import alive_bar
 import nltk
-from emo_unicode import __all_emo__
-
-nltk.download('stopwords')
+# from emo_unicode import __all_emo__
+import emoji_data_python
 
 # files to process
-files = ["test_unalbelled_conll", 'val_3k_split_conll', 'train_14k_split_conll']
+# files = ['val_3k_split', 'test_unalbelled']
+files = ['train_14k_split', 'val_3k_split']
 
 # Stopwords for English and Hindi
 hin_stop_words = pd.read_csv('hin_stop_words.txt', sep="\t", header=None)
@@ -21,10 +24,17 @@ stop_words = set(stopwords.words('english'))
 # variables
 snowBallStemmer = SnowballStemmer("english")
 
-punctuation = ['RT', '_', '.', '…', '...', '!', '#', '__', '___', '____', '_____', '..', '....', '.....', '.…', '.....',
+symbol_dict = { '❤': 'love', '♥': 'love', '❤❤': 'love', '♥♥': 'love', 'ù§': 'love', '‚ô•': 'love', '☺': 'smile'}
+
+punctuation1 = ['…', '.', '!', '#', '__', '?', '!', '&', '@', '$', '%', '^', '*', '+', '=', ':', ';', ',', '/',
+                '[', ']', '{', '}', '|', '_', '`', '~', '✖', '╮', '╭', '🔝', 'º', 'δ']
+
+punctuation2 = ['RT', '_', '.', '…', '...', '!', '#', '__', '___', '____', '_____', '..', '....', '.....', '.…', '.....',
                '@___', '@_', '.........', '.......', '((', '(((', '—…', '........', "'", ',', '|', '?', '!', '......',
-               '!!',
-               '??', '…', ' ................', '.....................…', '’', '!!!', '!!!!', '!!!!!', '!!!!!!']
+               '!!', '??', '…', ' ................', '.....................…', '’', '!!!', '!!!!', '!!!!!', '!!!!!!',
+               '!!!!!!!', '!!!!!!!!', '!!!!!!!!!', '!!!!!!!!!!', '!!!!!!!!!!!', '!!!!!!!!!!!!', '??', '—', '???'
+               '*', '**', '***', '****', '*****', '******', '*******', '********', '*********', '**********', '&', '-',
+               '>', '<', '”', '“', '"', '.......................', '►']
 
 symbol = ['ðŸ™ðŸŒ¹', 'ðŸ™ðŸŒ¹', 'Â´', 'ðŸ˜ðŸ˜ðŸ˜', '?ðŸ˜‚ðŸ˜‚ðŸ˜‚', '##', '#à¤šà¤®à¥à¤ªà¤¾à¤°à¤£', 'ðŸŽ‚ðŸ™â¤ï¸',
      'ðŸ', 'ðŸ’ƒ', 'ðŸ¤®', 'â¤+ðŸ”¨=ðŸ’”', 'ÙˆØ±Ø¯ÛŒ', '#êµ¬ë…¸', 'ðŸ˜­ðŸ’–ðŸ’–', 'â¤â¤â¤', 'ðŸŽ‚', 'ðŸ–ðŸ½',
@@ -95,21 +105,59 @@ symbol = ['ðŸ™ðŸŒ¹', 'ðŸ™ðŸŒ¹', 'Â´', 'ðŸ˜ðŸ˜ð�
      '??ðŸ™„', 'ðŸ˜©ðŸ˜‘', 'ðŸ‘ðŸ‘ðŸ˜‰ðŸ˜‰', '1â€¦', 'ðŸ˜„', 'â˜ºâ˜º', 'à¤¹à¥‹..', 'ðŸ˜¬ðŸ˜¬..', 'à¨œà¨¿',
      'ðŸ’“ðŸ’“ðŸ’“ðŸ˜ðŸ˜ðŸ˜', 'ðŸ¤£ðŸ”¥', 'ðŸ˜‰ðŸ˜‰ðŸ˜‰', 'ðŸ˜‘ðŸ˜‘', 'ÛŒÛ']
 
-emojis = __all_emo__
-
 # Functions
 def cleaning_punctuation(sentence):
     cleaned_tokens = []
     for token in sentence.split(' '):
-        if token not in punctuation:
+        if any(punct in token for punct in punctuation1):
+            print(token)
+            continue
+        elif token not in punctuation2:
             cleaned_tokens.append(token)
     return (' '.join(cleaned_tokens))
 
 
 def cleaning_symbol(sentence):
     cleaned_tokens = []
+    tokenlist = sentence.split(' ')
+    previous = next_ = None
+    l = len(tokenlist)
+    for index, token in enumerate(tokenlist):
+        if index > 0:
+            previous = tokenlist[index - 1]
+        if index < (l - 1):
+            next_ = tokenlist[index + 1]
+        if emoji_data_python.get_emoji_regex().findall(token):
+            if token == previous:
+                continue
+            # if token == next_:
+            #     print('found dup2:', token, next_)
+            #     continue
+            else:
+                cleaned_tokens.append(token)
+        cleaned_tokens.append(token)
+    sentence = ' '.join(cleaned_tokens)
+    cleaned_tokens = []
+
     for token in sentence.split(' '):
-        if token not in symbol:
+        # replaces words for any symbols from dictionary
+        if token in symbol_dict:
+            cleaned_tokens.append(symbol_dict[token])
+
+        # Checks for emojis and replaces with short names
+        if emoji_data_python.get_emoji_regex().findall(token):
+            unified = emoji_data_python.char_to_unified(token)
+            emojis = unified.split('-')
+            emojis = list(dict.fromkeys(emojis))
+            for emoji in emojis:
+                for index, key in enumerate(emoji_data_python.emoji_short_names):
+                    if emoji in emoji_data_python.emoji_short_names[key].__dict__.values():
+                        description = key.replace('_', '-').split('-')
+                        # print(description)
+                        for word in description:
+                            cleaned_tokens.append(word)
+                        continue
+        elif token not in symbol:
             cleaned_tokens.append(token)
     return (' '.join(cleaned_tokens))
 
@@ -139,6 +187,8 @@ def stemming(sentence):
     stem_words = [snowBallStemmer.stem(word) for word in wordList]
     return (' '.join(stem_words))
 
+# print(emoji_data_python.emoji_short_names['gear'].__dict__)
+
 # Iterate through files, clean and convert to .tsv
 for file in files:
 
@@ -147,36 +197,56 @@ for file in files:
     datapath = filepath + '/' + 'data' + '/' + 'hindi-english' + '/' + file
     # outpath = filepath / 'processed_data' / 'hindi-english' / title
 
-    data = pd.read_csv(datapath + '.txt', sep="\t", header=None)
+    data = pd.read_csv(datapath + '.txt', sep="\t", header=None, engine='python', quoting=csv.QUOTE_NONE)
 
     s1 = []
     s2 = []
     s3 = []
+    number = 0
+    empty = 0
+    null = 0
 
     for i in range(len(data)):
         if data[0][i] == "meta":
             s3 = " ".join(s1)
             s2.append(s3)
             s1 = []
+            number += 1
         elif data[0][i] == "@":
             continue
         elif data[0][i - 1] == "@":
+            continue
+        elif data[0][i] == '':
+            empty += 1
+        elif data[0][i] == '"':
+            continue
+        elif data[0][i] == "'":
+            continue
+        elif (pd.isnull(data[0][i])):
+            null += 1
             continue
         else:
             s1.append(str(data[0][i]))
     s2.append(" ".join(s1))
     s2.pop(0)
+    print(file, 'total tweets: ', number)
+    print(file, 'empty datapoints: ', empty)
+    print(file, 'null datapoints:  ', null)
 
     sentiment = []
+    label = []
 
     if 'test' not in file:
         for i in range(len(data)):
             if data[2][i] == 'negative':
-                sentiment.append(0)
+                label.append(0)
+                sentiment.append("negative")
             elif data[2][i] == 'neutral':
-                sentiment.append(1)
+                label.append(1)
+                sentiment.append("neutral")
             elif data[2][i] == 'positive':
-                sentiment.append(2)
+                label.append(2)
+                sentiment.append("positive")
 
     # s4 = []
     for i in range(len(s2)):
@@ -185,13 +255,18 @@ for file in files:
         else:
             continue
 
+    print('starting')
     s4 = []
-    for i in range(len(s2)):
-        s4.append(cleaning_punctuation(s2[i]))
+
+    with alive_bar(len(s2)) as bar:
+        for i in range(len(s2)):
+            s4.append(cleaning_symbol(s2[i]))
+            bar()
+    print('symbol cleaning complete')
 
     s5 = []
     for i in range(len(s4)):
-        s5.append(cleaning_symbol(s4[i]))
+        s5.append(cleaning_punctuation(s4[i]))
 
     s6 = []
     for i in range(len(s5)):
@@ -213,12 +288,38 @@ for file in files:
         if type(id[i]) == str:
             clean_id.append(id[i])
 
-    with open(datapath + ".tsv", 'wt', encoding="utf-8") as out_file:
-        tsv_writer = csv.writer(out_file, delimiter='\t')
+    with open(datapath + ".csv", 'wt', encoding="utf-8") as out_file:
+        tsv_writer = csv.writer(out_file)
+        if 'test' in file:
+            tsv_writer.writerow(['id', 'sentence'])
+        elif 'test' not in file:
+            tsv_writer.writerow(['id', 'sentence', 'label', 'sentiment'])
         for k in range(len(s7)):
-            f = []
-            f.append(clean_id[k])
-            f.append(s7[k])
-            if 'test' not in file:
-                f.append(sentiment[k])
-            tsv_writer.writerow(f)
+            if len(s5[k]) > 10:
+                f = []
+                f.append(clean_id[k])
+                f.append(s5[k])
+                if 'test' not in file:
+                    f.append(label[k])
+                    f.append(sentiment[k])
+                tsv_writer.writerow(f)
+            else:
+                continue
+
+    with open(datapath + "_no_sp" + ".csv", 'wt', encoding="utf-8") as out_file:
+        tsv_writer = csv.writer(out_file)
+        if 'test' in file:
+            tsv_writer.writerow(['id', 'sentence'])
+        elif 'test' not in file:
+            tsv_writer.writerow(['id', 'sentence', 'label', 'sentiment'])
+        for k in range(len(s7)):
+            if len(s7[k]) > 10:
+                f = []
+                f.append(clean_id[k])
+                f.append(s7[k])
+                if 'test' not in file:
+                    f.append(label[k])
+                    f.append(sentiment[k])
+                tsv_writer.writerow(f)
+            else:
+                continue
