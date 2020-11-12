@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a30cafa4-b63e-4343-9cf2-0bd5ed640a2c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/XLM-R_train_hindi.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/XLM-R_train_hindi.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/hindi-english/test_unalbelled_conll.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/hindi-english/test_unalbelled_conll.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/hindi-english/train_14k_split_conll.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/hindi-english/train_14k_split_conll.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/hindi-english/val_3k_split_conll.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/hindi-english/val_3k_split_conll.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="notebook:///Users/ryangoss/Documents/MyDocs/School/CSCI5832 - NLP/NLP_finalproj/XLM-R_train_hindi.ipynb" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" root2="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JupyterTrust" id="b22d43b0-753c-4963-b337-52e4f55da684" />
+  <component name="ProjectId" id="1jbnkG5hiNYgVKr104NTHn0614s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JupyterPython" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="PythonConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="preprocess-hindi" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="NLP_finalproj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/preprocessing" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/preprocessing/preprocess-hindi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a30cafa4-b63e-4343-9cf2-0bd5ed640a2c" name="Default Changelist" comment="" />
+      <created>1604081799097</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604081799097</updated>
+      <workItem from="1604081800593" duration="30984000" />
+      <workItem from="1604855346248" duration="1283000" />
+      <workItem from="1604858448732" duration="370000" />
+      <workItem from="1604859000139" duration="1052000" />
+      <workItem from="1604865563391" duration="50864000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1037" y="370" width="1071" height="725" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604975645419">
+      <screen x="0" y="23" width="2560" height="1372" />
+    </state>
+    <state x="1037" y="370" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1680.701.1680.1027/0.23.2560.1372@0.23.2560.1372" timestamp="1604975645419" />
+    <state x="394" y="220" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.982@0.23.1680.982" timestamp="1604871223744" />
+    <state x="394" y="220" width="1071" height="725" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.983@0.23.1680.983" timestamp="1604874682263" />
+    <state x="1260" y="451" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1604858273715">
+      <screen x="0" y="23" width="2560" height="1372" />
+    </state>
+    <state x="1260" y="451" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/-1680.701.1680.1027/0.23.2560.1372@0.23.2560.1372" timestamp="1604858273715" />
+    <state x="1226" y="511" key="FileChooserDialogImpl" timestamp="1604975190778">
+      <screen x="0" y="23" width="2560" height="1372" />
+    </state>
+    <state x="1226" y="511" key="FileChooserDialogImpl/-1680.701.1680.1027/0.23.2560.1372@0.23.2560.1372" timestamp="1604975190778" />
+    <state width="879" height="194" key="GridCell.Tab.0.bottom" timestamp="1605159378222">
+      <screen x="0" y="23" width="2560" height="1372" />
+    </state>
+    <state width="879" height="194" key="GridCell.Tab.0.bottom/-1680.701.1680.1027/0.23.2560.1372@0.23.2560.1372" timestamp="1605159378222" />
+    <state width="799" height="195" key="GridCell.Tab.0.bottom/0.23.1680.982@0.23.1680.982" timestamp="1604876458367" />
+    <state width="799" height="195" key="GridCell.Tab.0.bottom/0.23.1680.983@0.23.1680.983" timestamp="1604893545797" />
+    <state width="881" height="184" key="GridCell.Tab.0.bottom/0.23.1680.985@0.23.1680.985" timestamp="1604987182503" />
+    <state width="881" height="184" key="GridCell.Tab.0.bottom/0.23.1680.986@0.23.1680.986" timestamp="1604991447333" />
+    <state width="799" height="195" key="GridCell.Tab.0.bottom/0.23.1680.988@0.23.1680.988" timestamp="1604957700614" />
+    <state width="879" height="194" key="GridCell.Tab.0.center" timestamp="1605159378221">
+      <screen x="0" y="23" width="2560" height="1372" />
+    </state>
+    <state width="879" height="194" key="GridCell.Tab.0.center/-1680.701.1680.1027/0.23.2560.1372@0.23.2560.1372" timestamp="1605159378221" />
+    <state width="799" height="195" key="GridCell.Tab.0.center/0.23.1680.982@0.23.1680.982" timestamp="1604876458367" />
+    <state width="799" height="195" key="GridCell.Tab.0.center/0.23.1680.983@0.23.1680.983" timestamp="1604893545796" />
+    <state width="881" height="184" key="GridCell.Tab.0.center/0.23.1680.985@0.23.1680.985" timestamp="1604987182502" />
+    <state width="881" height="184" key="GridCell.Tab.0.center/0.23.1680.986@0.23.1680.986" timestamp="1604991447333" />
+    <state width="799" height="195" key="GridCell.Tab.0.center/0.23.1680.988@0.23.1680.988" timestamp="1604957700614" />
+    <state width="879" height="194" key="GridCell.Tab.0.left" timestamp="1605159378220">
+      <screen x="0" y="23" width="2560" height="1372" />
+    </state>
+    <state width="879" height="194" key="GridCell.Tab.0.left/-1680.701.1680.1027/0.23.2560.1372@0.23.2560.1372" timestamp="1605159378220" />
+    <state width="799" height="195" key="GridCell.Tab.0.left/0.23.1680.982@0.23.1680.982" timestamp="1604876458366" />
+    <state width="799" height="195" key="GridCell.Tab.0.left/0.23.1680.983@0.23.1680.983" timestamp="1604893545795" />
+    <state width="881" height="184" key="GridCell.Tab.0.left/0.23.1680.985@0.23.1680.985" timestamp="1604987182502" />
+    <state width="881" height="184" key="GridCell.Tab.0.left/0.23.1680.986@0.23.1680.986" timestamp="1604991447327" />
+    <state width="799" height="195" key="GridCell.Tab.0.left/0.23.1680.988@0.23.1680.988" timestamp="1604957700609" />
+    <state width="879" height="194" key="GridCell.Tab.0.right" timestamp="1605159378222">
+      <screen x="0" y="23" width="2560" height="1372" />
+    </state>
+    <state width="879" height="194" key="GridCell.Tab.0.right/-1680.701.1680.1027/0.23.2560.1372@0.23.2560.1372" timestamp="1605159378222" />
+    <state width="799" height="195" key="GridCell.Tab.0.right/0.23.1680.982@0.23.1680.982" timestamp="1604876458367" />
+    <state width="799" height="195" key="GridCell.Tab.0.right/0.23.1680.983@0.23.1680.983" timestamp="1604893545796" />
+    <state width="881" height="184" key="GridCell.Tab.0.right/0.23.1680.985@0.23.1680.985" timestamp="1604987182502" />
+    <state width="881" height="184" key="GridCell.Tab.0.right/0.23.1680.986@0.23.1680.986" timestamp="1604991447333" />
+    <state width="799" height="195" key="GridCell.Tab.0.right/0.23.1680.988@0.23.1680.988" timestamp="1604957700614" />
+    <state x="940" y="388" key="SettingsEditor" timestamp="1604975371149">
+      <screen x="0" y="23" width="2560" height="1372" />
+    </state>
+    <state x="940" y="388" key="SettingsEditor/-1680.701.1680.1027/0.23.2560.1372@0.23.2560.1372" timestamp="1604975371149" />
+    <state x="341" y="153" key="SettingsEditor/0.23.1680.982@0.23.1680.982" timestamp="1604871194570" />
+    <state x="505" y="241" width="671" height="681" key="search.everywhere.popup" timestamp="1604956012702">
+      <screen x="0" y="23" width="1680" height="988" />
+    </state>
+    <state x="770" y="326" width="1021" height="945" key="search.everywhere.popup/-1680.701.1680.1027/0.23.2560.1372@0.23.2560.1372" timestamp="1604298282497" />
+    <state x="505" y="240" width="670" height="676" key="search.everywhere.popup/0.23.1680.982@0.23.1680.982" timestamp="1604208849675" />
+    <state x="505" y="241" width="671" height="681" key="search.everywhere.popup/0.23.1680.988@0.23.1680.988" timestamp="1604956012702" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/NLP_finalproj$preprocess_hindi.coverage" NAME="preprocess-hindi Coverage Results" MODIFIED="1604865456511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/preprocessing" />
+    <SUITE FILE_PATH="coverage/NLP_finalproj$XLM_R_train_hindi_ipynb.coverage" NAME="preprocess-hindi Coverage Results" MODIFIED="1605159342078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/preprocessing" />
+  </component>
+</project>
