@@ -295,7 +295,7 @@ for file in files:
         elif 'test' not in file:
             tsv_writer.writerow(['id', 'sentence', 'label', 'sentiment'])
         for k in range(len(s7)):
-            if len(s5[k]) > 10:
+            if len(s5[k]) > 4:
                 f = []
                 f.append(clean_id[k])
                 f.append(s5[k])
@@ -306,14 +306,14 @@ for file in files:
             else:
                 continue
 
-    with open(datapath + "_no_sp" + ".csv", 'wt', encoding="utf-8") as out_file:
+    with open(datapath + "_no_sw" + ".csv", 'wt', encoding="utf-8") as out_file:
         tsv_writer = csv.writer(out_file)
         if 'test' in file:
             tsv_writer.writerow(['id', 'sentence'])
         elif 'test' not in file:
             tsv_writer.writerow(['id', 'sentence', 'label', 'sentiment'])
         for k in range(len(s7)):
-            if len(s7[k]) > 10:
+            if len(s7[k]) > 4:
                 f = []
                 f.append(clean_id[k])
                 f.append(s7[k])
