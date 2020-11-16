@@ -60,6 +60,7 @@ id,sentence,label,sentiment
 30364,13 JCB ki khudai dekhne tum nehi jaate ho kya It's trending bcz of JCB memes n they r hilar ,2,positive
 25580,Oooh the head covers remind me a lil of those uhh danish special forces frog men These are super rad lovely color work,2,positive
 22749,Ye chor buddah Kyu chup chap nehi rehrakta hei rss walo buddah ko gaand maaro jail me rahkebhi khu ,0,negative
+12541,aziz ,1,neutral
 15187,Jab tak dalit aur OBC ek nahi ho jate pichhro Ko bat kar unka hak Marti rahegi BJP Kabhi rastravad to kabhi hindut ,2,positive
 19805,Very nice thinking sir Hamare desh ko aage badne se koi nhi rok sakta jai hind,2,positive
 19550,Kutte ki poonch kabhi bhi seedha nahi hosakti Pakistan ki niyat bhi kab ,0,negative
@@ -123,6 +124,7 @@ id,sentence,label,sentiment
 17650,DEAR HARSHADCHOPDA SIR This is your time to show others that your the best Yes sir aap ko logh ne jo kuch bi k,2,positive
 18251,Congratulations to our boys Sumit Rathi and Aryan Lamba for being selected in the India U19 squad fire fire Make us proud red circle white circle red circle white circle Aamar,2,positive
 12928,Official Yeh hay Sacha Khan Hamara PM Jis nay Ramazan e Ea ,2,positive
+38785,adarsh ,1,neutral
 2705,Aap sirfsabko yaad dilaiye ek ek flyover se aapne 25 crore 50 crore 75 crore 125 cro ,0,negative
 6187,Where are the Hindu haters how come they don t criticize report this nonsensical behavior of Deshdrohi dodo,0,negative
 24228,oh no i'm sorry to hear that ( Our readers are super nice but it's so hard to grow an audience with our update rate Sighhh,1,neutral
@@ -577,6 +579,7 @@ id,sentence,label,sentiment
 38761,Mera bhi kam exam hai All the best bha ,1,neutral
 11617,prasad anil Aur jo do britishers ka murder case tha woh bhul jaoge tum ghatiya log Lo ,0,negative
 23960,Abe chutiye bangaladesh aazad ho gaya phir bhi akal Nahi aai tumhe ,0,negative
+22272,And D uss ,1,neutral
 27253,beimani se chunav aayog aapna aastitv samapt kar liaya 2019ke chunav me loktantr ki hatya bjp ne chunav ,0,negative
 24999,Bhoolo mat sarbjeet ko bhi spy btaya tha tumari geedad Army ne lekin ham tume galat saabit krne mn ka ,2,positive
 44763,chhori Okay So a Soft movie that would make you cry is We are Marshall,2,positive
@@ -1133,6 +1136,7 @@ id,sentence,label,sentiment
 33287,This Cosmetology job might be a great fit for you Click the link in our bio to see it and more Hair Stylist at Ulta Beauty Tulsa OK,1,neutral
 41827,thumbsup thumbsup on Kudiye Ni Video Song Feat Aparshakti Khurana Sargun Mehta Neeti Mohan New Song 2019 ,1,neutral
 13989,ab jab congress ka koi spokeperson debate main he nahi aayega to trp milegi he nahi ,0,negative
+12538,Yadav,1,neutral
 15689,PakPassion Or ye jo bakwas galiyan tujhe tere jahil Maa or babu ne sikhayi he us ko ,0,negative
 16385,Kdiamond Eng Sub FULL INSIGHT by Bang Shi Bhuk PD on BTS the production One of the best insightful documentaries about BTS Bi,2,positive
 42369,No buzz for world cup this time isse zyada attendance ipl m hoti h,1,neutral
@@ -1343,6 +1347,7 @@ id,sentence,label,sentiment
 7597,national Ye kutta bhi bahut bhonkta tha fir ekdin Patel ji ne kaan me kuch Kaha is ni ,0,negative
 16142,Thanks Vidyaji mujhe itna special feel karwane ke liye Kash pados ki auntiyaan bhi aisa sochti Dhun Badal Ke Toh ,2,positive
 43755,sanam Sanam g ham chod ne balo me se nhi ha apne yadavo Ko samjhaye dimple Yadav Ko kaisa Dho ,1,neutral
+16892,Happy ,2,positive
 13403,Madam aj ke yuwa ne jab pakoda talne wali Sarkar ko chuna hai is tarah ki cheezen to hongi hi it ,0,negative
 13250,Part1-Vote ke din kitne hain chan bhar bhi nahi jo jina parega wohi Jindagi Age badhte hue Peeche chalne lagi ,1,neutral
 28311,aajadi to milne hi nahi di subash ko dhokha deker transfer of power le liya see this video,0,negative
@@ -1418,6 +1423,7 @@ id,sentence,label,sentiment
 40249,Krishna aap ne bade bade logo ko bewakoof bana diya aaj tak fact checker ko BHI kaam de diya a ,2,positive
 36110,aap sab khud ke brain khud ke vibhag government pr chalaye futurism business matter pe nhi es yogya nhi,1,neutral
 21031,Log Bhauji ko sirf holi mai yaad karte hai election mai vote na de kaar harwa dete hai Bad very bad,0,negative
+19139,Yogesh ,1,neutral
 40143,LRT If your mom loves your partner the whole family is gonna love them Never underestimate the influence moms ha ,2,positive
 26155,Hi Amanda I hope u are well I am writing on behalf of the cast crew of Ladies Day at PADOS studi ,2,positive
 14577,Team selection taik nahi Captain bhi 2 takke ka nahi players saare relo katte hafez imad shadab geniune batsman aur ,0,negative
@@ -1659,6 +1665,7 @@ id,sentence,label,sentiment
 18722,IND Itne surity k sath bol ri ho bjp wale chutiya h kya jo abhi tk bahar ghumne de rhe h,0,negative
 13639,Congratulations My Dear Prime minister Bhagvan se pray karta hu Hamare desh ko app jarur age le j ,2,positive
 16084,amethi gram pradhan aur bjp worker ki hatya aur is may congressi bhumika ki jaanch aur con ,1,neutral
+21311,siddiqui ,1,neutral
 837,FOR SALE BY OWNER Split level home in great neighborhood 3bd 2bth all appliances deck acre property low ta ,2,positive
 32463,mere dil ko tere dil ki zarurat hai pleading face pleading face bepannah ,2,positive
 36841,Is not that AS are not infected by malaria The thing is those people who are AS have lo,1,neutral
@@ -1830,6 +1837,7 @@ id,sentence,label,sentiment
 38949,8527 who Tum bhakton se akal ki ummeed krna bhi paaap h Bs itna samajh lo asli gaddar tum log ,0,negative
 28116,Sir chote losses cut sikhna padega aap se jaisa aapne JSW steel m kara tha u r great sir ,2,positive
 14795,Mulle Khalid baiman Koi kharab comment nhi karege,1,neutral
+19837,watch ,1,neutral
 19484,SISTERS BY CHANCE FRIENDS BY CHOICE two women holding hands women holding hands two women holding hands women holding hands I love you girls musuuza musuuza hibiscus hibiscus TYRA MIREMBE hibiscus hibiscus ,2,positive
 2145,OffiCal prash04 deepika006 Snehal ,1,neutral
 6454,Good Night Bappu MSG ji waliooo sari rehmt brsaa deo jo niddkk apne pyar to machde aw na bappu j ,1,neutral
@@ -2224,6 +2232,7 @@ id,sentence,label,sentiment
 42268,Apna kibla dorust krny k ley logon Ka kibla Nahi dakhna Chahiye warna ap Ka kibla b ghalat ho Sakta hy,1,neutral
 4887,Desh wasio ko mamuli lag raha hai islye Koi protest nahi h koi chintit nahi h ise lek ,2,positive
 30890,Maila Not in South Africa no Lol,1,neutral
+30178,aziz inc ,1,neutral
 4145,Modi ji aapko jeet ki badhai but hamare ghazipur ke vikas purush manoj sinha ji bhale hi haar rahe h ,1,neutral
 35232,It is time some sort of law is brought about fake journalism THEY ARE SPREADING TERRIBLE POI,0,negative
 43951,Tum logo ne Feku k 5 sal me feku ki bhakti aur Hindu-muslim hi kiya hefeku k 5 sal me MehgaiBero ,1,neutral

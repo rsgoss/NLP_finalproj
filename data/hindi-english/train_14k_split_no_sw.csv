@@ -296,6 +296,7 @@ id,sentence,label,sentiment
 27542,Bro delete kar ye chutiyappa Inhi cancerous cheezo ke kaaran maine nahi banaya account,0,negative
 40622,teri ka loda haram kr lode fte condom ki pedaish sale kutte ke beej,0,negative
 21817,PakPassion But Bhai unke samne starc Cummins Coulter Nile Best pace bowli,2,positive
+13499,yadav88,1,neutral
 41772,Aap log opposition main ho kisliye Tweet karne se Dal sashti ho jayegi Itni haar ho chuki hai frvi samajh main,0,negative
 30985,Jai Shri Ram slogan Hooliganism But Kashmir mei agar rehna hai Allah-O-Akbar kehna hai ' slogan Revolution,0,negative
 7483,G 55 Hindustan Mein Hindu Muslim Ek dusre Ke Dushman Kabhi Nahi ye To kuch political p,2,positive
@@ -610,6 +611,7 @@ id,sentence,label,sentiment
 23941,Matlab berojgaro neanpadho ne kisano nemahilao ne hindustan ki janta ne baar vote hi ni,1,neutral
 4978,Death ki okad bata deya bc block maar deya paid user ka lakho rupee lekr ye l,0,negative
 3159,Aoul ki chatni mithila 's best dish,1,neutral
+17653,Susner,1,neutral
 41026,sir ji ek sawaal tha aaj kal jaisa ki aapko pata hoga advocacy bhi ek paise kamaane ka jariy,2,positive
 19861,Look big girl Dil I Gi weekend FYI,1,neutral
 22436,Teri Maa ki chut u stupid Tumhari pad ne ki aukat nhi aur hungne k liye phle khd,0,negative
@@ -629,6 +631,7 @@ id,sentence,label,sentiment
 6688,Kitno ka haath mein rakhvate app Ye ek baap ka lagta nahi grin grin,0,negative
 14004,kitna bhi anti bjp ya Anti RSS ka jutha propaganda faila de Log samjhdar hai tu chutiya,0,negative
 25510,Arey Suddhi paaji bjp ke undercover agent Chunav ki lanka lagane gae congress ki side joy joy,1,neutral
+42081,jab We see,1,neutral
 9142,Jai Hind Jai Bharat pray pray Jis din hamare Bharat desh ye naara har baccha baccha bo,1,neutral
 38185,This way You need fight Do n't step Would love see lead crisis time,1,neutral
 38670,Tere beti ko koi gaali diya To tu ko tag karne laga Jab tu hamare scri,0,negative
@@ -741,6 +744,7 @@ id,sentence,label,sentiment
 3872,TheFilm Shaadi Kab Karni Hai BharatThisEid,2,positive
 9353,khan Great work sir bas desh ke bolne se bache,2,positive
 34971,Main panauti nikla Bc joy joy,1,neutral
+16451,TheFilm,1,neutral
 15716,Ishaq najuk hei bahut Juban se nahee aankho se bayan hoga hei Jab dard se bad jaye dukh se aankh bha,1,neutral
 30475,Manish Itihaas hume sikhata hai ki hum itihaas se kuch nahi sikhte BJP ne yeh hi sikhaya hai ki sab purvajo ne,0,negative
 22474,Very Good aisi maa bahut bahut bahut bhagyashali Jo apne bete ko itni uchahiyo pr dekhe aur aisa bet,2,positive
@@ -1189,6 +1193,7 @@ id,sentence,label,sentiment
 5727,tu wohi chutiya hain naa jo foot foot ke roya tha abki baar tere gaand mein jhaadu khos ke mor ba,0,negative
 29530,KareenaKapoorKhan Our Bebo beauty Queen comes back Bang Dance India Dance Show The Super Judg,1,neutral
 31169,Ye team world champion jarur banegi captain team ji,2,positive
+43574,INC 28,1,neutral
 34767,I hv one idea dipti aunties show Which says stick kavya back Vyom n humara ladka ko wapas dedo Hume ZainImam w,2,positive
 9006,sweta Bharat way VishwaGuru programs base,2,positive
 20243,Ho gayi suruat new India ki Ye nafart yahi nhi rukegi pensive pensive,0,negative
@@ -1721,6 +1726,7 @@ id,sentence,label,sentiment
 36918,kaleem What fuck Is chote say bachay ko kiya sekhaa rahe hen Emraan hashmi bana k rakh diya hai isko koi sharam,0,negative
 7919,bhai shyd isi tweet par ne block kia ka baapu ji modi ji modi ji rolling floor laughing rolling floor laughing,1,neutral
 24505,mod ji ke saath -2 aapne bhi desh ke liye bahut badiya patrkarita ki hai sir aapko ni,2,positive
+38919,Atal adwa,1,neutral
 11712,DSSAgainstDowry Good Morning Papa g Bless us Maximum Sewa Simran Parmarth And Success In Life,2,positive
 37440,Hon Auwal Muhammad yahaya Yaro Mai kyau family really proud handshake skin tone 2 skin tone 2 handshake skin tone 2 skin tone 2,2,positive
 4092,I really love two hearts two hearts thanks dear 're special kissing heart kissing heart,2,positive
@@ -1735,6 +1741,7 @@ id,sentence,label,sentiment
 28589,RSS Teri ki choot chinal randi chinal,0,negative
 23899,OUR BIGGEST VOICE BTS So show I 'll show BTSatWembley twt,1,neutral
 16443,I proud brother Adnan Dhool nailed vocals idea created Zulfi,2,positive
+16441,siddiqui,1,neutral
 21532,g Ye ha PTM ki haqeet Jo log k huq bool rahe han wo Pakistan k dushman han WeStandWithPakArmy PTMkoBANNkaro,0,negative
 35543,Masoomiyat ko sach ki zaroorat nahi hoti kyunki usse saccha kuch aur nahi hota Kaafir premieres 15th June,1,neutral
 26223,Papa ki princess half dp ko wesay bhi koi nahi janta,1,neutral
@@ -2330,6 +2337,7 @@ id,sentence,label,sentiment
 1948,1Majlis Sufi Khwaja Moinuddin Chishty Ajmeri r ki Duniya Sirf Manch Bharuch 73 saal se 6 Majalis Kitab 6 din pad,1,neutral
 31348,ur Bae Every school time love story mai bndia like bndy ko dekhty hi chips ur lunch Wgera thusna bnd kr deti hai jissy wo atte,1,neutral
 25358,Kareena Kapoor Khan Hindu,1,neutral
+34408,Manniye,1,neutral
 17208,Ghar ki maasi speak better Believe house maid speaks better,0,negative
 22419,shrikant003 Very nice Pakistan Bhukha nanga hai,0,negative
 17142,hyuei KH2 Trio ready gala dinner ( IMO KH2 hairstyle better KH3 lol ) Where think going kingdomhear,1,neutral
@@ -2484,6 +2492,7 @@ id,sentence,label,sentiment
 27841,Jai hind desh k sabhi deskbhakto desh hit kaam krne walo desh k parti har samay tatpar rhne walo ko Shri Nare,2,positive
 7630,proud country pm narendar modi ji,2,positive
 41895,This fav video ever ‘ Indian This Bollywood song ‘ hum logo ko samajh sako toh samjho dilba,1,neutral
+29540,Sharma,1,neutral
 20238,14 Abey kele maa behan Ko gaali dekar bolta hai kuch bola nahi hai Tum logh SRK fans bi,0,negative
 2357,A org Ye dadoo charger ko koi ye bataye ke jo banda chaye ke sath biscuit nahi deta,1,neutral
 4335,I practicing EyeMD-prescribe every dry eye drop market one works well-attended AAO Ann mtg,1,neutral
@@ -2946,6 +2955,7 @@ id,sentence,label,sentiment
 12833,Liked YouTube Ve Maahi Kesari Cute Love Story Akshay Kumar Parineeti Latest Hindi Song Samarth Swar,1,neutral
 17622,Pakistan enemies DREAD influence ENDING Insha Allah ALL SAME page PakistanArmy today,1,neutral
 16434,Please give bechara paresan hai It great sewa towards,2,positive
+30960,Diva13,1,neutral
 10902,Beta Ak Jhalak Dekho Dominos Ki To Savour Ka Andaza Khud Hi Laga Lo stuck tongue closed eyes heart eyes stuck tongue closed eyes heart eyes,2,positive
 21292,Kabhi Pappu kabhi Pappu ki juka juka suje mu Wala ki gardhan bhi suj gaye log ko tao pehal,1,neutral
 22691,dear sir modi ji jab mamta ji ko hmare aaradhya bhagwan shri Ram ji ka naam lene hi itna kast hota h inka,0,negative
@@ -3145,6 +3155,7 @@ id,sentence,label,sentiment
 2713,k maa baap ne usko shiksha hi aisi di hai Dosh uske Maa baap ka h Uska nhi Padh,0,negative
 10716,Abu In fact ur pretty eys sallo heart wink wink hehe stuck tongue winking eye stuck tongue winking eye,2,positive
 27630,Sale suar resing gand nahi tha dum kyu bhok Raha tha Awara kutte ki tarah,0,negative
+15465,Haan bas,1,neutral
 41630,Congratulations Shri Piyushjee Namaskar We feel relaxed happy assumed office,2,positive
 37180,Lekhi It also thanks gau rakshak,1,neutral
 15403,Oye ja kam kar yeh foj ke waja se mulk bacha hua hy warna tum bhi afghani aurton ke tarah hath uper,0,negative
@@ -3156,6 +3167,7 @@ id,sentence,label,sentiment
 6218,Chup se baith tere har tweet main sirf hate n crime h sirf batein tweet karne se kuch nahi bad,1,neutral
 28269,Hardik Subh kamnaye aap ki jeet par Bhalo kaj korun And This time You work hard Bengal,2,positive
 11822,chori ka nazariyacorruptions ka nazariyamega projects mea commissions khane ka nazariya,2,positive
+25538,TheFilm,1,neutral
 30080,Shawani spokesman Jam Kamal party BAP,1,neutral
 24992,Ye hai daang marao media wale Ye news hai inke liye thinking face thinking face Abe desh k gaddaro ab data bhi agaya jobs ka unpar Kia tu,0,negative
 27178,Sune hai bharat ka sambidhan sabse bada hai aise log jo samwedhanik padon pe beth,0,negative
@@ -3530,6 +3542,7 @@ id,sentence,label,sentiment
 1758,Hindi naman pagsinabing loveteam kailangan marami kayong moments may nararamdaman kayo sa isa't isa Dyan sa love,1,neutral
 15975,Assalaam Alaykum Alhamdulillah 's Friday The last Jummah Ramadan 26th 1440 Hijir Ya Allah On bles,2,positive
 1988,Bht achi bat kahe hai ifra good heart eyes heart eyes,1,neutral
+13065,TheFilm,1,neutral
 35072,UP Bihar ke ahir hi ye kaam karte warna baki rajyo ke Yadav hamesha raaj kie hai aur raja,1,neutral
 32105,Unfollow pink-tarha 's I dont wan na see sale update anymore Ayoko ng mahulog sa bitag ng mga sale na yan joy sob joy sob,1,neutral
 13094,Bahut acchi picture hai mam looking beautiful picture outfit looking,2,positive
@@ -4405,6 +4418,7 @@ id,sentence,label,sentiment
 30688,Yahi sab karo Desh ka vikash nahi hoga lekin tumhare jaise awsarwadi logon ka vikas jarur ho gaya Ab,0,negative
 30835,Guddan Tumse Na Ho Payega 29 May 2019 Preview Akshat sends Angad psychological,0,negative
 30462,Jai jai shri ram Jai jai shri Ram From Begusarai ( Bihar Jai jai shri ram Ram ram ki jai ho,2,positive
+12793,Mendola,1,neutral
 301,I hope I see baby weekend highly doubt pleading face pleading face ugh,1,neutral
 44052,LOVE new In Style short sleeve cool shirts This hot pink fun blue trim adds professional,2,positive
 13670,Pnr 2162845873 Modi teri nayi train ka kaisa h ye hal leti hai waiting bahut pr krti nh,0,negative
@@ -5164,6 +5178,7 @@ id,sentence,label,sentiment
 5025,Hearty congratulations JEE rankers Proud Telugu toppers Wishing best future,2,positive
 22533,sir voted nation Apko kal ke result ke liye subhkamnaye Jai hind,2,positive
 27653,chokha Restaurants kholne ka mtlb koi sense responsibility ni haikharab khana dete hai customers ko,0,negative
+41654,siddiqui,1,neutral
 22692,Hi bhai excited celebrate eid year 290 bhaijaan fans Gaiety Galaxy 5th,2,positive
 15821,Hi topper joy joy Of A5 girls kota factory KotaFactory awesome series students inspired jeetu bha,2,positive
 13333,He biggest idiot india ever seen Dukan band kar aur sarak le futiye Vote chaiye GA U ko,0,negative
@@ -5206,6 +5221,7 @@ id,sentence,label,sentiment
 19552,sab Or jo mar rahy h wo sale bol rahy h mandir gosht khe rahy ho jhute kon khe dega ya mandir h mandi,1,neutral
 3351,White sahi rehega skyblue ka koi bharosa nahi raha ab Woh baljit ki friend skyblue pehan ke hi ga,0,negative
 9503,Manani mukhyamantri ji Banda Bhoomi Sanrakshan sinchai Avm jal Sansadhan Vibhag bhi bahut bhars,1,neutral
+17346,aurat,1,neutral
 15415,I WISH VERY EXTREMELY HAPPY AND BLESSED RAMADAN OR RAMJAAN MONTH TO YOU THE WOW AND HOW POWERFUL CELEBRITY KATRI,2,positive
 11382,Is bkl ki shakal hi suar jaise hai usi ko dekh k log paisa fenk dete hai,0,negative
 27829,PledgeAgainstCorruption Good afternoon guru g bless us give us power Sewa S,2,positive
@@ -5862,6 +5878,7 @@ id,sentence,label,sentiment
 12797,Congress proved anti national Party They n't like Vande Matharam Bharath Maatha ki jai slogans,0,negative
 14952,Apku Pakistan Mubarak Hu green heart green heart 27thRamazan HappyIndependenceDay green heart green heart May Allah always bless Pakistan best sparkling heart sparkling heart,2,positive
 6306,HappppY BirthDay bhaiyaa blush blush Allah apko hmesh khush rkhe Salamat raho blush blush,2,positive
+39841,Chale,1,neutral
 26767,Jab promo nahi aarahe tab bolrahe promo nahi aarahe buzz nahi ab promo aaraha buzz b,1,neutral
 22178,ka dil Is gadhe ne Hindustani fauj ko gajar mooli samjha hai jaise iske baap dada 1965,0,negative
 21061,Pooja Great job 's Mashaallah se good going Sir modi ji zindabaad zindabaad,2,positive
@@ -5917,6 +5934,7 @@ id,sentence,label,sentiment
 21967,Shah sir ne bola hai ab movie bhi dekhunga Best luck looking forward see u silver screen,2,positive
 5401,insan rohit,1,neutral
 4389,Terese jyada koi relevance ki bheek nahi maangta Teri jalti hai kyunki usko Terese jyada relevance,1,neutral
+23777,Mehta,1,neutral
 23762,Mujhe Samajh Nahi Arha Ab Ye Chal Kia Raha Hy face rolling eyes face rolling eyes Twitter Dekhne Ka Dil Nahi Kar Rha Ab face rolling eyes face rolling eyes,1,neutral
 33408,w8ng fr u tere se kch b na ho paye ga relieved relieved,0,negative
 25035,kitni bar shikayat kare tab Jake mere Gav ki road banegi mere Gav ki road bahut bahut kharab ho gayi,1,neutral
@@ -6114,6 +6132,7 @@ id,sentence,label,sentiment
 13562,heart eyes heart eyes Dino one amazing puppies seen It pleasure able see progress,2,positive
 19579,Hindu Muslim ek kaise ho jate hai aap log ke nazar Ye bhi nafrat hi faila rhe hai jab BJP ko bhi yahi,0,negative
 2908,Bhai gave India captaincy become world captain joy joy Ab jeet aana varna iske memes banenge IndvsBan,1,neutral
+39810,V ​ ​ ​⇒,1,neutral
 37885,apdj DRM ko bhi bataya lekin abhi tak koi action nahi hua log AC coach ka emergency windows kholke bethe,0,negative
 42063,ab wo mujhse naraz hogaya hai thinks I n't trust,1,neutral
 25701,Abay jaahil Itnay andaazay agar apni family k lye laga lete aaj Kch R kam hotin Pakistan main,0,negative
@@ -7870,6 +7889,7 @@ id,sentence,label,sentiment
 33999,AAP khushiya manaiye Ameet Shah Home Minister wah Modiji Wah,2,positive
 21656,Pareshan karke rakh diya hai ye 3 shabd ne mamta ko Pehli baar hi ignore maar deti ya,1,neutral
 43578,Thank generous support Big33 especially Commissioners Jeff Haste George Har,1,neutral
+8254,siddiqui,1,neutral
 17287,P modi gi ko bahut bahut subhkamnaye,2,positive
 28593,What polls WO N'T tell Elizabeth Warren quietly running BEST campaign EXCITING ideas l,2,positive
 27993,Gascoigne8 Guys thanks4all support messages two hearts two hearts I love bottom heart two hearts two hearts im well safe thanks2 SHANE,2,positive
@@ -7929,6 +7949,7 @@ id,sentence,label,sentiment
 30842,Jai Hind pray skin tone 3 skin tone 3 pray skin tone 3 skin tone 3,2,positive
 32501,Shubh Din MITOA Vande Mataram Salute Armed Forces nation protecting freedom,2,positive
 13155,PT Rohatgi Ek baar apne pitaji se jake puchna ki galti gaali bakne wale ki h ya tere kaam gali khan,0,negative
+17604,Are champ,1,neutral
 24191,Tm jeeto ya haro suno hame tm payr h love u im ur huge fan love u heart eyes kissing heart heart eyes kissing heart pakistan zindabad,2,positive
 9663,actualy sad bighairathi ki intiha hain yi koi nahi aaj,1,neutral
 13070,sanamre1 rhe9 teri bhen Deadly Alive nice,1,neutral
@@ -7941,6 +7962,7 @@ id,sentence,label,sentiment
 24465,I love Trump 's argument implies 's okay president commit high crimes long avoids misdem,0,negative
 24585,Behan ke lodey dekh tere chahte Pakistan mein hinduo ka bina mushkil ho gaya Ram Kal ki 2 betiyon ka,0,negative
 12080,Respected Madam ek hi dil hai kitni baar jitoge Jai Hind pray skin tone 2 skin tone 2 pray skin tone 2 skin tone 2 inspir,2,positive
+24266,ngo Punjab,1,neutral
 21997,Saheb Evm Jb Tk Band Ni Hoga Ye Chor Aise Hi jitega Evm Sistem Is Dammage,0,negative
 14880,Sir en apny logo ko khyal b kr lain pak boht se log aesy b hain jo es mehnghai k dour 2time ka khana nai kha pa rhy,1,neutral
 19870,sapphire1 Bzk Yhe tow ha bt iski wajha se ha Israel ka hold ab har jagah ha No one speak speak,1,neutral
@@ -10559,6 +10581,7 @@ id,sentence,label,sentiment
 8551,Tabhi ye BJP h Bhajpa jaane se pehle kam se kam 3-4 Murder Rape loot karna padta h,0,negative
 27675,Faisal qureshi react meme sed react fasaadi jani,1,neutral
 26250,Kutta sala isko laat maarkar buttons suna dena Chahiye par saale ki jali hai na takleef hua hai,0,negative
+23971,NabiAzad,1,neutral
 26732,Happy back 2nd year learn lots new research karki Doherty,1,neutral
 14155,Awww thanks lovely Roz That 's kind X,2,positive
 19089,Abey chutiya 12th fail teri jaise gandphati k bhadwe bahut ghoomte hain jo cheap publicity tu paan,0,negative
@@ -10959,6 +10982,7 @@ id,sentence,label,sentiment
 35081,krish jadav kaur123,1,neutral
 44450,Ab maan ka kalwe teri party buri tarah harkat chutti pe ja chuki hai tu bhi Rajneeti se chutti lele th,0,negative
 16374,Ye sab sab bekar ki baat hai 2024 pahunchte pahunchte ek doosra pulwama attackek surgical strike ek,0,negative
+22620,2020 Mohan,1,neutral
 8814,Modikaka kisiko bakshna nahi yaad 52 gaali di aapko ham nahi bhoolege PruvthiRaj Chauhan ne Mohmad,0,negative
 42874,Mallesham Movie Trailer launch Gallery Mallesham MalleshamTrailerLaunch Priyadarshi,1,neutral
 11824,many congratulations mam please mam PUbji game ban karva deejiye jisse children healthy education per focus kare,1,neutral
@@ -11097,6 +11121,7 @@ id,sentence,label,sentiment
 17338,bhut bhut badhai avam subhkamnaye aapko ji taking oath cm printmafias facebook com printmafias,2,positive
 18402,Tu pappu ke degree aur citizenship ko ko hi clear kar le pahale,1,neutral
 25361,Roopa IPS ne khud tweet mana kar diya ki ye uska post nahi hai dhongi Kahi k Kyu desh k logon,0,negative
+14028,thank muh,2,positive
 10195,krish Is This requirement yagna pre condition veda Go h,1,neutral
 42662,Aapki behan ne Ramzan bilkul pakoray nahi khaye hen thanks iftaries road car,2,positive
 24378,54 ohhh bhai ye pakistan team aap k baap ke malqeyaat nehi hai Jesy dil karya khalo Ha,0,negative
@@ -11744,6 +11769,7 @@ id,sentence,label,sentiment
 29092,Sekh mujeeb nayla kadri jindawad Indian army jindawad jay hind,2,positive
 39893,Wah jii wah jiii u r really belong isalm,1,neutral
 26907,bull Kya karegi bra ka phir hindu ke pas hi Jana hai,1,neutral
+13014,Happy,1,neutral
 42181,Hiiii doll mom ibam ur big f n mom ivask u life tired face pray heartbeat tired face pray heartbeat inbox please hmesa apke ley,2,positive
 43538,Laakh kaha na maana dil kaisa deewana Kab se kare hai intezaar tera Love love love song heart eyes sob heart eyes sob,2,positive
 40740,24 yr 're really cool luv yr transformation surely need take tips And tmne mughe khi k,2,positive
@@ -12009,6 +12035,7 @@ id,sentence,label,sentiment
 32973,TejasswiPrakash hilarious epi joy joy Nikki teri chikki bana dungi joy joy TJ r jealousy cute expression I love heart eyes heart eyes KJ,2,positive
 42462,Motax yagui koye g é rer nice joy joy,1,neutral
 5706,What song yaar jitna v sunoo mann hi nehi var raha hai Bekhayali I think infectious song ye,2,positive
+1604,777 pak,1,neutral
 4079,Daaru bhi band karo sir,1,neutral
 3200,Many many congratulations raised hands raised hands Ab apke 2209 followes ho gye hai Ese khub tarraki kro khush rho joy pray joy pray Ram ram sa boy,2,positive
 28443,nimra Oyeee Happy Birthdayyy Javiiii You one best girl twitter Literally sob sob Its day n wish k tm jeo,2,positive
@@ -12272,6 +12299,7 @@ id,sentence,label,sentiment
 40502,Sonker siddhu desh drohi ke fans kitne bade wale gaddar honge Maloom nahi,0,negative
 6538,bjp ko bhi bihar chhod dena chahiya ministry post If bjp shame,1,neutral
 27638,Congres aur mehangi Ka rishta bahut Purana hai Modi ji aap aaoPanjab mai water electricity Kai rate phir badha diye hai,1,neutral
+41664,watch,1,neutral
 16834,usko bhool jao warna hurt hoti rahogi atleast Allah ne tumhe bachaliya un janwaar say jo hua wo,1,neutral
 28316,Sanatan dharm sabse Purana dharm hai jo Iss Desh ki neev hai jisme gau-pooja hoti hai still,1,neutral
 2132,wish best jiii,2,positive
@@ -12643,6 +12671,7 @@ id,sentence,label,sentiment
 4881,samuel79 Haramzadi Dono kutte khud ko vishwa sundri samajh te hai,1,neutral
 21895,Degree criteria politician needs money power muscle power,1,neutral
 18944,Wo insaafi nahee Ali chutiye hain They managed isolate people legitimately questioned ability,0,negative
+37304,TheFilm,1,neutral
 15909,But 100 100 sahe dia hn mine super man hain AP,2,positive
 12081,Best luck Indian cricket team aap se bahut umid Hai esbar 2019 World Cup Hindustan Ko dilao bhai,2,positive
 19987,Is hisab se apka jaisa bio hai Mandir ban jayega zaroor bharat aa gye grimacing grimacing,2,positive
@@ -12705,6 +12734,7 @@ id,sentence,label,sentiment
 20986,Gajar ka halwa wonderful vegetarian Indian Dessert combination nuts milk sugar khoya ghee grated ca,1,neutral
 28486,Chutiya h bhosdi k Maa k lode apni kahe jaa rha h Teri seli h tu,0,negative
 792,Aapki Aukat Aapko Yeh trailer Dekhne Ki Anumati Nahin Deti Watch new trailer video Article 15 trailer,1,neutral
+23592,TheFilm,1,neutral
 17086,May Almighty God make easy Ramadan Mubarak,2,positive
 28495,Jab sale lagti h tab rakhte hei jab khud ka kaam khatam toh human explotation karte hein,0,negative
 35198,Drugs k sath pakra gya hy kia rolling floor laughing pray rolling floor laughing pray,1,neutral
@@ -12952,7 +12982,9 @@ id,sentence,label,sentiment
 12848,home person someday If I lucky haha I hope spent today way wanted spend,1,neutral
 26665,Le wena tsamo fokotsa Bano fihla ba e Bethe ka harane nyana smiley smiley,1,neutral
 45195,modi ji apko bahut bahut subhkamnaye mahadev ke bhagto ki kbhai haar nhi hoti modi ji mahakal ki k,2,positive
+8323,siddiqui,1,neutral
 13490,Some People summer like Nahayenge Aur jo ni Nahata usko nehlayege sweat smile sweat smile emiway thandai,1,neutral
+13588,kashyap,1,neutral
 17594,Sirji Mubarak Ho yeah hai aap ko phale hi aaana tha thanks Modiji khaar dar aaay,2,positive
 30585,Savidhan savidhan karoge tumhara bap bhi trust tum pe nahi karega Savidhan jaha vaha rahega tum,1,neutral
 8872,bluff dj rocks Apni maa ke baare main aisa nahi bolte tere abba linguist ne sikhayea nahi,2,positive
@@ -13096,6 +13128,7 @@ id,sentence,label,sentiment
 33890,God bless heart BaJane Praying pray skin tone 3 skin tone 3 pray skin tone 3 skin tone 3,2,positive
 38091,I think I know smiley smiley cos I also Unfollowed rolling floor laughing rolling floor laughing pata nahi khud ko kya samajh te hai log,1,neutral
 26884,Congratulations sir I happy ki aap hamare PM bne dil se welcome karte hai aap ko thanku much sir apne Indi,1,neutral
+28114,TheFilm,2,positive
 28944,Kisi Ki Line Copy Paste Karna Aur Uske Niche Apna Naam Likhna This Is One Kind Of Lie To Yourself Aur Juth,0,negative
 29251,cherry blossom rose cherry blossom rose Agr koi Tum se Bhalai ki Umid rkhy Usay mayus mat kro Q K Logon ki Zrurton ka tum se wabsta hona Tum pr,1,neutral
 9949,vps Bhai ab tumne rahul ko vote diya hmne bjp ko diy,0,negative
@@ -13125,6 +13158,7 @@ id,sentence,label,sentiment
 31022,Terrorists ko election jita ke Parliament bhejne wale log Pratap Sarangi ke past pe surprised dikhne ka naatak kar,0,negative
 13447,Maryam khud dekho tum logo ne Pakistan pr kitna zulam kiya tha kr rhy ho kuch sh,0,negative
 16972,Rashid To cow ko katna band kro problem solve tum muslim log hinduo k sentiment ki respect k,1,neutral
+11567,INC 28,1,neutral
 41364,Abhi tere jaise pagle gutter ke keede ko log hate hi karenge na yabed room leke jayenge except AA,0,negative
 23384,Bharat movie ki promotion aap kapil sharma show jaoge sir I big fan sir,1,neutral
 11829,adhiraj Bechare ko interview nhi dia bhai ne rone laga joy joy,1,neutral
@@ -13515,6 +13549,7 @@ id,sentence,label,sentiment
 6274,She fake hell isko koi kaam bhi naa de item songs ke ilava lol ghamandi aurat,0,negative
 6665,Thik hai bolte rho BJP k kami Ko ginate rho BJP kamo Ko krk tumko chunao se pehle bolne ka,1,neutral
 22170,Tu yahi fake likes laa paega grinning grinning elections band baj gai teri joy joy ab ulti ginti count krna start krde joy joy,1,neutral
+30815,siddiqui,1,neutral
 15257,Mein tujhe rote hue nhi dekh sakta AUR mein iss asu ko rokhunga nhi lekin behne bhi nahi dunga behirfeels,1,neutral
 23891,143 He suno kal koi budha sa lambi dadi wala aur lal coat wala uncle tumhe kidnap krne aaye chinta mat,1,neutral
 17116,win Are win I 'm sure Pakistan ki napakk hatkato se Islam bhi sath hi khatam ho jyega Pakistan ke,0,negative
@@ -13527,6 +13562,7 @@ id,sentence,label,sentiment
 20993,zafar Pehle fact padh le chutiye tera pakistan hai kutte ki tarah map wal,0,negative
 4984,Anchor look happy,1,neutral
 32412,Satyanash tabhi mera cooler kharab hua h Aag lage Teri jeebha ko Karamjali kusur CM ka h Bt,0,negative
+43082,siddiqui,1,neutral
 25076,Woi main soch rhi thi k abi kuch din phly ap kch bol ry thy grin grin itni jldi kesy hogy grin grin,1,neutral
 43934,Congress mein bcha kya hai Congress ek parwar ke chamcho ki jamat ke ilawa kuchh nhi hai Is,0,negative
 35297,Khaya know ur wish 're sooooo anti-CR driven one thing big T word,2,positive
@@ -13616,6 +13652,7 @@ id,sentence,label,sentiment
 26306,Good night dear friends expressionless expressionless ankahealfaza,2,positive
 9258,Abey khandaani chor Tu chor Hai har koi chor dikhega Rahi chatne ki vo tumse,0,negative
 6595,BC ye straight line dash line dotted line ka chutiyapa band kro face rolling eyes face rolling eyes Kyu aatma tadpa rahe ho Mechanical Engin,0,negative
+18288,tweet,1,neutral
 23849,90 Phir Altaf Hussain nay Pakistan murbad bad bola mohajiron ko bhi,0,negative
 43437,And man say unto Why ye say ye Lord hath need straightway send h,1,neutral
 16510,Ok tell civilization kitne advance hain ap log Your superpowers rolling floor laughing smirk zany face grinning face one large one small eye rolling floor laughing smirk zany face grinning face one large one small eye,2,positive

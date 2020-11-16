@@ -123,6 +123,7 @@ id,sentence,label,sentiment
 17650,DEAR HARSHADCHOPDA SIR This time show others best Yes sir aap ko logh ne jo kuch bi k,2,positive
 18251,Congratulations boys Sumit Rathi Aryan Lamba selected India U19 squad fire fire Make us proud red circle white circle red circle white circle Aamar,2,positive
 12928,Official Yeh hay Sacha Khan Hamara PM Jis nay Ramazan e Ea,2,positive
+38785,adarsh,1,neutral
 2705,Aap sirfsabko yaad dilaiye ek ek flyover se aapne 25 crore 50 crore 75 crore 125 cro,0,negative
 6187,Where Hindu haters come criticize report nonsensical behavior Deshdrohi dodo,0,negative
 24228,oh 'm sorry hear ( Our readers super nice 's hard grow audience update rate Sighhh,1,neutral
@@ -314,6 +315,7 @@ id,sentence,label,sentiment
 35514,ahmed110 ima Lajawab wo hotay hai jinke pas lafz nahi hotay,1,neutral
 13160,true hehehehe best luck diyan sa course mo finally fulfill dream becoming playwright,2,positive
 28469,Thik h sir phir ap Mujhe bhi na batye pray pray,1,neutral
+11662,What fuck,1,neutral
 21595,Best luck sir lots love jai hind vande matram Bharat mata ki jai thumbsup pray thumbsup pray,2,positive
 13438,All sudden lyrics Bhulleya came mind sob sob Such underrated song Dil hy parinda asmaan ko maa,1,neutral
 37069,k9 sob joy sob joy pakka company dega na tu jcb ki khudai dekhne ni jayega,1,neutral
@@ -576,6 +578,7 @@ id,sentence,label,sentiment
 38761,Mera bhi kam exam hai All best bha,1,neutral
 11617,prasad anil Aur jo britishers ka murder case tha woh bhul jaoge tum ghatiya log Lo,0,negative
 23960,Abe chutiye bangaladesh aazad ho gaya phir bhi akal Nahi aai tumhe,0,negative
+22272,And D uss,1,neutral
 27253,beimani se chunav aayog aapna aastitv samapt kar liaya 2019ke chunav loktantr ki hatya bjp ne chunav,0,negative
 24999,Bhoolo mat sarbjeet ko bhi spy btaya tha tumari geedad Army ne lekin ham tume galat saabit krne mn ka,2,positive
 44763,chhori Okay So Soft movie would make cry We Marshall,2,positive
@@ -828,6 +831,7 @@ id,sentence,label,sentiment
 2536,Muslmaan nahi dar rahe Haa Unko dara dara ke Muslim vote Ki rajneeti karne wale jaro,1,neutral
 18711,Best wishes And love Mitra best boy ever heart eyes heart eyes,2,positive
 3441,Fucking low IQ girl Girl Is fookne se hum kya karenge Me persevere persevere Birthday banayenge aur kya,1,neutral
+34400,mgt Thank,2,positive
 29137,12 k likes 12 k think nationalist Hindu bhkt modi b,0,negative
 1645,BJP ke 300 winning candidates mein ek bhi Muslim nahin ye tajjub ki baat nahin hai Tajjub ki baat ye hai ke lo,1,neutral
 19821,16 Media satta ka dalal ban chuki hai,0,negative
@@ -1131,6 +1135,7 @@ id,sentence,label,sentiment
 33287,This Cosmetology job might great fit Click link bio see Hair Stylist Ulta Beauty Tulsa OK,1,neutral
 41827,thumbsup thumbsup Kudiye Ni Video Song Feat Aparshakti Khurana Sargun Mehta Neeti Mohan New Song 2019,1,neutral
 13989,ab jab congress ka koi spokeperson debate main nahi aayega trp milegi nahi,0,negative
+12538,Yadav,1,neutral
 15689,PakPassion Or ye jo bakwas galiyan tujhe tere jahil Maa babu ne sikhayi us ko,0,negative
 16385,Kdiamond Eng Sub FULL INSIGHT Bang Shi Bhuk PD BTS production One best insightful documentaries BTS Bi,2,positive
 42369,No buzz world cup time isse zyada attendance ipl hoti h,1,neutral
@@ -1341,6 +1346,7 @@ id,sentence,label,sentiment
 7597,national Ye kutta bhi bahut bhonkta tha fir ekdin Patel ji ne kaan kuch Kaha ni,0,negative
 16142,Thanks Vidyaji mujhe itna special feel karwane ke liye Kash pados ki auntiyaan bhi aisa sochti Dhun Badal Ke Toh,2,positive
 43755,sanam Sanam g ham chod ne balo se nhi ha apne yadavo Ko samjhaye dimple Yadav Ko kaisa Dho,1,neutral
+16892,Happy,2,positive
 13403,Madam aj ke yuwa ne jab pakoda talne wali Sarkar ko chuna hai tarah ki cheezen hongi hi,0,negative
 13250,Part1-Vote ke din kitne hain chan bhar bhi nahi jo jina parega wohi Jindagi Age badhte hue Peeche chalne lagi,1,neutral
 28311,aajadi milne hi nahi di subash ko dhokha deker transfer power le liya see video,0,negative
@@ -1416,6 +1422,7 @@ id,sentence,label,sentiment
 40249,Krishna aap ne bade bade logo ko bewakoof bana diya aaj tak fact checker ko BHI kaam de diya,2,positive
 36110,aap sab khud ke brain khud ke vibhag government pr chalaye futurism business matter pe nhi es yogya nhi,1,neutral
 21031,Log Bhauji ko sirf holi mai yaad karte hai election mai vote na de kaar harwa dete hai Bad bad,0,negative
+19139,Yogesh,1,neutral
 40143,LRT If mom loves partner whole family gon na love Never underestimate influence moms ha,2,positive
 26155,Hi Amanda I hope u well I writing behalf cast crew Ladies Day PADOS studi,2,positive
 14577,Team selection taik nahi Captain bhi 2 takke ka nahi players saare relo katte hafez imad shadab geniune batsman aur,0,negative
@@ -1657,6 +1664,7 @@ id,sentence,label,sentiment
 18722,IND Itne surity k sath bol ri ho bjp wale chutiya h kya jo abhi tk bahar ghumne de rhe h,0,negative
 13639,Congratulations My Dear Prime minister Bhagvan se pray karta hu Hamare desh ko app jarur age le j,2,positive
 16084,amethi gram pradhan aur bjp worker ki hatya aur may congressi bhumika ki jaanch aur con,1,neutral
+21311,siddiqui,1,neutral
 837,FOR SALE BY OWNER Split level home great neighborhood 3bd 2bth appliances deck acre property low ta,2,positive
 32463,mere dil ko tere dil ki zarurat hai pleading face pleading face bepannah,2,positive
 36841,Is AS infected malaria The thing people AS lo,1,neutral
@@ -1828,6 +1836,7 @@ id,sentence,label,sentiment
 38949,8527 Tum bhakton se akal ki ummeed krna bhi paaap h Bs itna samajh lo asli gaddar tum log,0,negative
 28116,Sir chote losses cut sikhna padega aap se jaisa aapne JSW steel kara tha u r great sir,2,positive
 14795,Mulle Khalid baiman Koi kharab comment nhi karege,1,neutral
+19837,watch,1,neutral
 19484,SISTERS BY CHANCE FRIENDS BY CHOICE two women holding hands women holding hands two women holding hands women holding hands I love girls musuuza musuuza hibiscus hibiscus TYRA MIREMBE hibiscus hibiscus,2,positive
 2145,OffiCal prash04 deepika006 Snehal,1,neutral
 6454,Good Night Bappu MSG ji waliooo sari rehmt brsaa deo jo niddkk apne pyar machde aw na bappu j,1,neutral
@@ -1894,6 +1903,7 @@ id,sentence,label,sentiment
 1977,Dar mat gaandu kuch nahi hoga Teri bv ki chut ko Ye Roz ka kaam hai Randi ka Ise aise hi Randi,0,negative
 19391,Kudos boys great game live fight another day Over KRU please put house ord,1,neutral
 24625,Sir proud Ye begharat jitny jhoot boly bolny Doo Allah hamesha sachaii ka sath detaaa,2,positive
+44393,Love har,1,neutral
 24935,pratibha SAALE SHARAM KR KUCH ISME HAMARI MUSALMAAN oR HINDU SIST,0,negative
 38189,Pakistan Cricket Team talent ki koi kami nahi farq sirf itna k hamary playere ko apne carrier ki pari rehti,1,neutral
 38049,Agar tumhe country ki constitutional organization pe bharosha hi nahi fir tum hote kaun ho eski demand,2,positive
@@ -2221,6 +2231,7 @@ id,sentence,label,sentiment
 42268,Apna kibla dorust krny k ley logon Ka kibla Nahi dakhna Chahiye warna ap Ka kibla b ghalat ho Sakta hy,1,neutral
 4887,Desh wasio ko mamuli lag raha hai islye Koi protest nahi h koi chintit nahi h ise lek,2,positive
 30890,Maila Not South Africa Lol,1,neutral
+30178,aziz inc,1,neutral
 4145,Modi ji aapko jeet ki badhai hamare ghazipur ke vikas purush manoj sinha ji bhale hi haar rahe h,1,neutral
 35232,It time sort law brought fake journalism THEY ARE SPREADING TERRIBLE POI,0,negative
 43951,Tum logo ne Feku k 5 sal feku ki bhakti aur Hindu-muslim hi kiya hefeku k 5 sal MehgaiBero,1,neutral
